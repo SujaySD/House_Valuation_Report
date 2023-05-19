@@ -1,6 +1,6 @@
 # House_Valuation_Report
 ### An optimized case study on Region and State wise House Price analysis to assist Roofing and Insurance companies to make effective decisions on their potential customers.
-#Raw Data Source# 
+### Raw Data Source
 https://www.zillow.com/research/data/  || Zillow Open Souce Data
 
 ## Stages of this case study:
@@ -10,6 +10,11 @@ https://www.zillow.com/research/data/  || Zillow Open Souce Data
 ###### 4.Cleaning of raw data was done throgh MS Excel.
 ###### 5.Data Transformation, Visualization throgh charts and Map distribution was done in Power Bi Desktop.
 ###### 6.Prepared a Presentation showcasing problem statement, studies done on data and insights generated were made as a report to present Findings and recomendations through the case study.
+
+## Findings:
+# West Region as depicted above has a Highest Average House Price at $472K followed by North East at $252K, South at $244K and at the lowest is the Mid West at $184K.
+# At $750K Hawaii state of west region had the highest Overall Avg Price and was 451 % higher than Illinois state, which had the lowest Overall Avg Price at $136K.
+# Across all 48 State, House Price ranged from $90490 to $1355618.
 
 
 This case study on house valuation prices only scratched the surface of a complex topic. I along with a team had done a detailed project and dugged deeper into the factors that influence house prices, such as location, Roof area by categorizing into Tiers, and Roofing Type etc.

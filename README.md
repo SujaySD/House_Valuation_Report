@@ -13,11 +13,11 @@
 https://www.zillow.com/research/data/  || Zillow Open Souce Data
 
 ## Findings:
-### West Region as depicted above has a Highest Average House Price at $472K followed by North East at $252K, South at $244K and at the lowest is the Mid West at $184K.
-### At $750K Hawaii state of west region had the highest Overall Avg Price and was 451 % higher than Illinois state, which had the lowest Overall Avg Price at $136K.
-### Hawaii is the state with Highest Average House price at $750K which is justified for its beautiful beaches, warm climate, and breathtaking scenery it being an island.
-### California stands at the second highest average house price at $583K due reasons it being a booming tech industry, warm climate, and stunning coastline. California state even had a highest individual house price of $1.3 Million located at San Jose City.
-### Across all 48 State, House Price ranged from $90490 to $1355618.
+#### West Region as depicted above has a Highest Average House Price at $472K followed by North East at $252K, South at $244K and at the lowest is the Mid West at $184K.
+#### At $750K Hawaii state of west region had the highest Overall Avg Price and was 451 % higher than Illinois state, which had the lowest Overall Avg Price at $136K.
+#### Hawaii is the state with Highest Average House price at $750K which is justified for its beautiful beaches, warm climate, and breathtaking scenery it being an island.
+#### California stands at the second highest average house price at $583K due reasons it being a booming tech industry, warm climate, and stunning coastline. California state even had a highest individual house price of $1.3 Million located at San Jose City.
+#### Across all 48 State, House Price ranged from $90490 to $1355618.
 
 
 This case study on house valuation prices only scratched the surface of a complex topic. I along with a team had done a detailed project and dugged deeper into the factors that influence house prices, such as location, Roof area by categorizing into Tiers, and Roofing Type etc.
